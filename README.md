@@ -64,9 +64,9 @@ hotel-booking-api/
 │   ├── crud.py
 │   ├── database.py
 │
+├── requirements.txt
 ├── Dockerfile
 ├── docker-compose.yml
-├── requirements.txt
 └── README.md
 ```
 
